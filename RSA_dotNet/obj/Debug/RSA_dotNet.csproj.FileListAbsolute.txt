@@ -1,0 +1,8 @@
+F:\Ivan\Projects\C#\VS\RSA_dotNet\RSA_dotNet\bin\Debug\RSA_dotNet.exe.config
+F:\Ivan\Projects\C#\VS\RSA_dotNet\RSA_dotNet\bin\Debug\RSA_dotNet.exe
+F:\Ivan\Projects\C#\VS\RSA_dotNet\RSA_dotNet\bin\Debug\RSA_dotNet.pdb
+F:\Ivan\Projects\C#\VS\RSA_dotNet\RSA_dotNet\obj\Debug\RSA_dotNet.Form1.resources
+F:\Ivan\Projects\C#\VS\RSA_dotNet\RSA_dotNet\obj\Debug\RSA_dotNet.Properties.Resources.resources
+F:\Ivan\Projects\C#\VS\RSA_dotNet\RSA_dotNet\obj\Debug\RSA_dotNet.csproj.GenerateResource.Cache
+F:\Ivan\Projects\C#\VS\RSA_dotNet\RSA_dotNet\obj\Debug\RSA_dotNet.exe
+F:\Ivan\Projects\C#\VS\RSA_dotNet\RSA_dotNet\obj\Debug\RSA_dotNet.pdb
